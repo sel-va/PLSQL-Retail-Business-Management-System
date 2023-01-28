@@ -1,6 +1,6 @@
 # PLSQL-Retail-Business-Management-System
-AUTHOR: SELVA
-DATE CREATED: 04/09/2019
+    AUTHOR: SELVA
+    DATE CREATED: 04/09/2019
 
 Project Introduction
 Business Requirement Document for a small project having three tables
@@ -42,11 +42,11 @@ git clone https://github.com/sel-va/PLSQL-Retail-Business-Management-System.git
 
 ## **License**
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
+====================================================================================================================
 
 PROJECT INTRODUCTION
 ====================
-  The GitHub project for level 1 freshers in PL/SQL technology is designed to provide a hands-on experience with the technology, while also helping them to understand how a real-world database is structured and maintained. The project focuses on creating a database that can store and manage data for a small retail business. This includes creating tables for storing information about products, customers, and orders, as well as procedures and functions for performing common tasks such as adding new products, processing orders, and generating reports. The project also includes sample data and queries to help freshers understand how the database works and how to interact with it using PL/SQL. By working on this project, freshers will gain a solid understanding of the basics of PL/SQL and how it can be used in a practical setting.
+The GitHub project for level 1 freshers in PL/SQL technology is designed to provide a hands-on experience with the technology, while also helping them to understand how a real-world database is structured and maintained. The project focuses on creating a database that can store and manage data for a small retail business. This includes creating tables for storing information about products, customers, and orders, as well as procedures and functions for performing common tasks such as adding new products, processing orders, and generating reports. The project also includes sample data and queries to help freshers understand how the database works and how to interact with it using PL/SQL. By working on this project, freshers will gain a solid understanding of the basics of PL/SQL and how it can be used in a practical setting.
 --------------------------------------------------------------------------------------------------------
 Business Requirement Document for a small project having three tables
 ======================================================================
