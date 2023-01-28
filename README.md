@@ -48,16 +48,21 @@ This project is not licensed under the MIT License.
 <a name="SECTION3"></a>
 # **BUSSINESS REQUIREMENT DOCUMENT**
 ## **Introduction**
+<pre>
 This document outlines the business requirements for a small database development project. 
 The project aims to create a database that can store and manage data for a small retail business. 
 The database will include three main tables: customers, orders, and products.
+</pre>
 
 ## **Business Requirements**
+<pre>
 The customers table will store information about the business's customers, including their name, address, and contact information.
 The orders table will store information about the orders placed by customers, including the customer's name, the order date, and the products included in the order.
 The products table will store information about the products sold by the business, including product name, price, and quantity in stock.
+</pre>
 
 ## **Functional Requirements**
+<pre>
 The database will have the ability to add new customers to the customers table.
 The database will have the ability to update existing customer information in the customers table.
 The database will have the ability to delete customers from the customers table.
@@ -68,19 +73,23 @@ The database will have the ability to add new products to the products table.
 The database will have the ability to update existing products in the products table.
 The database will have the ability to delete products from the products table.
 The database will have the ability to generate reports on customer and order data.
+</pre>
 
 ## **Technical Requirements**
+<pre>
 The database will be built using PLSQL.
 The database will be hosted on a Linux server.
 The database will be accessible through a web-based interface using PHP.
 The database will be backed up regularly to ensure data integrity and availability.
+</pre>
 
 ## **Conclusion**
+<pre>
 This Business Requirement Document outlines the requirements for a small database development project that will store and manage data for a retail business. 
 The project will include three main tables: customers, orders, and products. 
 The database will have the ability to add, update, and delete data in each of these tables and will have the ability to generate reports 
 on customer and order data. The database will be built using oracle SQL, hosted on a Linux server, and will be accessible through a web-based interface using PHP.
-
+</pre>
 -------------------------------------------------------------------------------------------------------------------------------------
 <a name="SECTION4"></a>
 # **DATA MODEL**
