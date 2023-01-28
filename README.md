@@ -48,11 +48,9 @@ This project is not licensed under the MIT License.
 <a name="SECTION3"></a>
 # **BUSSINESS REQUIREMENT DOCUMENT**
 ## **Introduction**
-<pre>
-This document outlines the business requirements for a small database development project. 
-The project aims to create a database that can store and manage data for a small retail business. 
-The database will include three main tables: customers, orders, and products.
-</pre>
+* This document outlines the business requirements for a small database development project. 
+* The project aims to create a database that can store and manage data for a small retail business. 
+* The database will include three main tables: customers, orders, and products.
 
 ## **Business Requirements**
 <pre>
