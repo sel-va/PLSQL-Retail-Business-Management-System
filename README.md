@@ -1,11 +1,13 @@
 # PLSQL-Retail-Business-Management-System
     AUTHOR: SELVA
     DATE CREATED: 04/09/2019
-
-Project Introduction
-Business Requirement Document for a small project having three tables
-Data Model
-Physical Data Model
+===========================================================================================================
+# **CONTENT*
+- Project Introduction
+- Business Requirement Document for a small project having three tables
+- Data Model
+- Physical Data Model
+==============================================================================================================
 
 # **Retail Store Database**
 
@@ -22,16 +24,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### **Installing**
 
-1. Clone the repository to your local machine
+1. Clone the repository to your local machine in C:\sqltemp\
 git clone https://github.com/sel-va/PLSQL-Retail-Business-Management-System.git
 
 2. Open the project in Oracle SQL Developer or any other SQL client
 3. Connect to the database
-4. Run the SQL scripts in the following order:
-    - create_tables.sql
-    - insert_data.sql
-    - create_views.sql
-
+4. Run the SQL scripts in named as master_script.sql which placed in "C:\sqltemp\", it automaticaly excute all sql files in order wise.
+ 
 ## **Built With**
 
 - [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html)
@@ -41,28 +40,29 @@ git clone https://github.com/sel-va/PLSQL-Retail-Business-Management-System.git
 - **SELVA** - *Initial work* - [selva](https://github.com/sel-va)
 
 ## **License**
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is not licensed under the MIT License.
+
 ====================================================================================================================
 
-PROJECT INTRODUCTION
+# **PROJECT INTRODUCTION**
 ====================
-The GitHub project for level 1 freshers in PL/SQL technology is designed to provide a hands-on experience with the technology, while also helping them to understand how a real-world database is structured and maintained. The project focuses on creating a database that can store and manage data for a small retail business. This includes creating tables for storing information about products, customers, and orders, as well as procedures and functions for performing common tasks such as adding new products, processing orders, and generating reports. The project also includes sample data and queries to help freshers understand how the database works and how to interact with it using PL/SQL. By working on this project, freshers will gain a solid understanding of the basics of PL/SQL and how it can be used in a practical setting.
+    The GitHub project for level 1 freshers in PL/SQL technology is designed to provide a hands-on experience with the technology, while also helping them to understand how a real-world database is structured and maintained. The project focuses on creating a database that can store and manage data for a small retail business. This includes creating tables for storing information about products, customers, and orders, as well as procedures and functions for performing common tasks such as adding new products, processing orders, and generating reports. The project also includes sample data and queries to help freshers understand how the database works and how to interact with it using PL/SQL. By working on this project, freshers will gain a solid understanding of the basics of PL/SQL and how it can be used in a practical setting.
 --------------------------------------------------------------------------------------------------------
-Business Requirement Document for a small project having three tables
+# **Business Requirement Document for a small project having three tables**
 ======================================================================
-Introduction
+## **Introduction**
 ==============
 This document outlines the business requirements for a small database development project. 
 The project aims to create a database that can store and manage data for a small retail business. 
 The database will include three main tables: customers, orders, and products.
 
-Business Requirements
+## **Business Requirements**
 =======================
 The customers table will store information about the business's customers, including their name, address, and contact information.
 The orders table will store information about the orders placed by customers, including the customer's name, the order date, and the products included in the order.
 The products table will store information about the products sold by the business, including product name, price, and quantity in stock.
 
-Functional Requirements
+## **Functional Requirements**
 =========================
 The database will have the ability to add new customers to the customers table.
 The database will have the ability to update existing customer information in the customers table.
@@ -75,14 +75,14 @@ The database will have the ability to update existing products in the products t
 The database will have the ability to delete products from the products table.
 The database will have the ability to generate reports on customer and order data.
 
-Technical Requirements
+## **Technical Requirements**
 =======================
 The database will be built using PLSQL.
 The database will be hosted on a Linux server.
 The database will be accessible through a web-based interface using PHP.
 The database will be backed up regularly to ensure data integrity and availability.
 
-Conclusion
+## **Conclusion**
 =============
 This Business Requirement Document outlines the requirements for a small database development project that will store and manage data for a retail business. 
 The project will include three main tables: customers, orders, and products. 
@@ -90,13 +90,13 @@ The database will have the ability to add, update, and delete data in each of th
 on customer and order data. The database will be built using oracle SQL, hosted on a Linux server, and will be accessible through a web-based interface using PHP.
 
 --------------------------------------------------------------------------------------------------------------
-DATA MODEL
-==========
+# **DATA MODEL**
+=================
 ![small_retail_buz_datamodel](https://user-images.githubusercontent.com/76585155/215259012-dad59d1d-80ed-4e62-be6f-a5fcdb5a5662.JPG)
 --------------------------------------------------------------------------------------------------------------
 
-Physical Data Model 
-===================
+# **Physical Data Model** 
+===========================
 Physical Data Model for a database development project with tables for customers, orders, and products:
 <PRE>
 Table Name: Customers
