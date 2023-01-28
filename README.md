@@ -1,4 +1,6 @@
 # PLSQL-Retail-Business-Management-System
+	AUTHOR: SELVA
+	DATE CREATED: 04/09/2019
 
 PROJECT INTRODUCTION
 ====================
@@ -45,6 +47,10 @@ The project will include three main tables: customers, orders, and products.
 The database will have the ability to add, update, and delete data in each of these tables and will have the ability to generate reports 
 on customer and order data. The database will be built using oracle SQL, hosted on a Linux server, and will be accessible through a web-based interface using PHP.
 
+--------------------------------------------------------------------------------------------------------------
+DATA MODEL
+==========
+![small_retail_buz_datamodel](https://user-images.githubusercontent.com/76585155/215259012-dad59d1d-80ed-4e62-be6f-a5fcdb5a5662.JPG)
 --------------------------------------------------------------------------------------------------------------
 
 Physical Data Model 
