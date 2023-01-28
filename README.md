@@ -1,6 +1,48 @@
 # PLSQL-Retail-Business-Management-System
-	AUTHOR: SELVA
-	DATE CREATED: 04/09/2019
+AUTHOR: SELVA
+DATE CREATED: 04/09/2019
+
+Project Introduction
+Business Requirement Document for a small project having three tables
+Data Model
+Physical Data Model
+
+# **Retail Store Database**
+
+A small project to create a database that can store and manage data for a small retail business. 
+
+## **Getting Started**
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### **Prerequisites**
+
+- Oracle SQL Developer or any other SQL client
+- SQL Plus
+
+### **Installing**
+
+1. Clone the repository to your local machine
+git clone https://github.com/sel-va/PLSQL-Retail-Business-Management-System.git
+
+2. Open the project in Oracle SQL Developer or any other SQL client
+3. Connect to the database
+4. Run the SQL scripts in the following order:
+    - create_tables.sql
+    - insert_data.sql
+    - create_views.sql
+
+## **Built With**
+
+- [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html)
+- [SQL Plus](https://docs.oracle.com/en/database/oracle/oracle-database/19/sqpug/index.html)
+
+## **Authors**
+- **SELVA** - *Initial work* - [selva](https://github.com/sel-va)
+
+## **License**
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 
 PROJECT INTRODUCTION
 ====================
