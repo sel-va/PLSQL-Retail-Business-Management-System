@@ -3,10 +3,11 @@
     DATE CREATED: 04/09/2019
 
 # **CONTENT**
-* [Project Introduction](#Project Introduction)
+* [Project Introduction](#Project_Introduction)
 * [Business Requirement Document](#Business Requirement Document for a small project having three tables)
 * [Data Model](#Data Model)
-* [Physical Data Model](#Physical Data Model)
+* [Physical Data Model](#Physical_Data_Model)
+
 -------------------------------------------------------------------------------------------------------------------
 
 # **Retail Store Database**
@@ -45,6 +46,7 @@ This project is not licensed under the MIT License.
 
 # **PROJECT INTRODUCTION**
     The GitHub project for level 1 freshers in PL/SQL technology is designed to provide a hands-on experience with the technology, while also helping them to understand how a real-world database is structured and maintained. The project focuses on creating a database that can store and manage data for a small retail business. This includes creating tables for storing information about products, customers, and orders, as well as procedures and functions for performing common tasks such as adding new products, processing orders, and generating reports. The project also includes sample data and queries to help freshers understand how the database works and how to interact with it using PL/SQL. By working on this project, freshers will gain a solid understanding of the basics of PL/SQL and how it can be used in a practical setting.
+    
 -------------------------------------------------------------------------------------------------------------------------------------
 
 # **Business Requirement Document for a small project having three tables**
@@ -81,6 +83,7 @@ This Business Requirement Document outlines the requirements for a small databas
 The project will include three main tables: customers, orders, and products. 
 The database will have the ability to add, update, and delete data in each of these tables and will have the ability to generate reports 
 on customer and order data. The database will be built using oracle SQL, hosted on a Linux server, and will be accessible through a web-based interface using PHP.
+
 -------------------------------------------------------------------------------------------------------------------------------------
 
 # **DATA MODEL**
