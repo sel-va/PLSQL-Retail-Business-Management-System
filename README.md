@@ -28,7 +28,7 @@ git clone https://github.com/sel-va/PLSQL-Retail-Business-Management-System.git
 
 2. Open the project in Oracle SQL Developer or any other SQL client
 3. Connect to the database
-4. Run the SQL scripts in named as master_script.sql which placed in "C:\sqltemp\", it automaticaly excute all sql files in order wise.
+4. Run the SQL scripts named as 'master_script.sql' which are located in the directory "C:\sqltemp\". It will automatically execute all SQL files in the order they are listed.
  
 ## **Built With**
 
