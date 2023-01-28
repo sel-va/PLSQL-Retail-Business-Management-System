@@ -9,8 +9,8 @@
 * [Physical Data Model](#SECTION5)
 
 -------------------------------------------------------------------------------------------------------------------
-
-#<a name="SECTION2"></a> **PROJECT INTRODUCTION**
+<a name="SECTION2"></a>
+# **PROJECT INTRODUCTION**
 
 The GitHub project for level 1 freshers in PL/SQL technology is designed to provide a hands-on experience with the technology, while also helping them to understand how a real-world database is structured and maintained. The project focuses on creating a database that can store and manage data for a small retail business. This includes creating tables for storing information about products, customers, and orders, as well as procedures and functions for performing common tasks such as adding new products, processing orders, and generating reports. The project also includes sample data and queries to help freshers understand how the database works and how to interact with it using PL/SQL. By working on this project, freshers will gain a solid understanding of the basics of PL/SQL and how it can be used in a practical setting.
 
@@ -44,8 +44,8 @@ git clone https://github.com/sel-va/PLSQL-Retail-Business-Management-System.git
 This project is not licensed under the MIT License.
     
 -------------------------------------------------------------------------------------------------------------------------------------
-
-#<a name="SECTION3"></a> **BUSSINESS REQUIREMENT DOCUMENT**
+<a name="SECTION3"></a>
+# **BUSSINESS REQUIREMENT DOCUMENT**
 ## **Introduction**
 This document outlines the business requirements for a small database development project. 
 The project aims to create a database that can store and manage data for a small retail business. 
@@ -81,13 +81,14 @@ The database will have the ability to add, update, and delete data in each of th
 on customer and order data. The database will be built using oracle SQL, hosted on a Linux server, and will be accessible through a web-based interface using PHP.
 
 -------------------------------------------------------------------------------------------------------------------------------------
-
-#<a name="SECTION4"></a> **DATA MODEL**
+<a name="SECTION4"></a>
+# **DATA MODEL**
 
 ![small_retail_buz_datamodel](https://user-images.githubusercontent.com/76585155/215259012-dad59d1d-80ed-4e62-be6f-a5fcdb5a5662.JPG)
--------------------------------------------------------------------------------------------------------------------------------------
 
-#<a name="SECTION5"></a> **PHYSICAL DATA MODEL** 
+-------------------------------------------------------------------------------------------------------------------------------------
+<a name="SECTION5"></a>
+# **PHYSICAL DATA MODEL** 
 Physical Data Model for a database development project with tables for customers, orders, and products:
 <PRE>
 Table Name: Customers
