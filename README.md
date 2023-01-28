@@ -78,7 +78,8 @@ This project is not licensed under the MIT License.
 ## **Conclusion**
 * This Business Requirement Document outlines the requirements for a small database development project that will store and manage data for a retail business. 
 * The project will include three main tables: customers, orders, and products. 
-* The database will have the ability to add, update, and delete data in each of these tables and will have the ability to generate reports on customer and order data. * The database will be built using oracle SQL, hosted on a Linux server, and will be accessible through a web-based interface using PHP.
+* The database will have the ability to add, update, and delete data in each of these tables and will have the ability to generate reports on customer and order data.
+* The database will be built using oracle SQL, hosted on a Linux server, and will be accessible through a web-based interface using PHP.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 <a name="SECTION4"></a>
