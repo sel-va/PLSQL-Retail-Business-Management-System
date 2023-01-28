@@ -1,11 +1,11 @@
 # **INTRODUCTION**
-Welcome to our Learning Management System (LMS) repository!
+## **Welcome to our Learning Management System (LMS) repository!**
 
 Our LMS is designed to provide a comprehensive learning experience for individuals interested in web development and database management. This repository contains tutorials and practice code for HTML, CSS, JavaScript, SQL/PLSQL, Selenium -Java -Python, UNIX shell scripting and Git practice.
 
 The code in this repository is frequently updated to ensure that it is up-to-date with the latest technologies and best practices.
 
-Here's a breakdown of what you'll find in this repository:
+## **Here's a breakdown of what you'll find in this repository:**
 
 1. HTML, CSS, and JavaScript Basic tutorials: Learn the basics of web development and build your own responsive websites using these popular front-end technologies.
 
